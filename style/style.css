@@ -19,3 +19,7 @@ p{
 .footer{
     float: right;
 }
+#excursion-link{
+    color: aquamarine;
+    text-decoration: underline;
+}
